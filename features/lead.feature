@@ -1,4 +1,4 @@
-Feature: Lead page
+Feature: Lead segmentation page
 
 Background: I have to access RD Station homepage
   Given We navigate to the homepage
