@@ -30,5 +30,5 @@ geckodriver: /home/user/bin/geckodriver
 
 First, you go in cucumber repository as "jeisonPereira-cucumber" and start to run, an example:
 ```
-cucumber 
+cucumber features --format html --out reports
 ```
