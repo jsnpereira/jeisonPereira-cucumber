@@ -21,12 +21,12 @@ Install geckodriver, check the list to configure and install, follow:
 2. Download geckdriver use command is: wget https://github.com/mozilla/geckodriver/releases/download/v0.18.0/
 3. Extract file: tar -zxvf geckodriver-v0.18.0-linux64.tar.gz
 4. Set: export PATH=$PATH:/home/[your username]/bin
-5. Check geckodriver is working use "whereis geckodriver" is shwing like:
+5. Check geckodriver is working, use  "whereis geckodriver" comand will showing like:
 ```
 geckodriver: /home/user/bin/geckodriver
 ```
 
-#How to run the cucumber features
+# How to run the cucumber features
 
 First, you go in cucumber repository as "jeisonPereira-cucumber" and start to run, an example:
 ```
